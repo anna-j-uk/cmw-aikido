@@ -1,0 +1,79 @@
+
+
+body {
+	padding-top: 70px;
+	margin-bottom: 50px;
+}
+
+.fixed {
+	position: fixed;
+}
+
+.panel-cancel > .panel-heading {
+    color: #FFF;
+    background-color: #FF5722;
+    border-color: #ddd;
+}
+
+.index-page-header {
+	position: relative;
+}
+
+.index-page-header img {
+	position: absolute;
+    height: 70px;
+    right: 0;
+    opacity: 0.2;
+}
+
+.page-header-text {
+    padding: 2rem;
+}
+
+.page-header-aikido-info {
+	background: #E2E2E2;
+	padding: 1rem;
+	border-radius: 5px;
+}
+
+.page-header-aikido-info-text {
+	padding: 1rem;
+	font-size: 1.5rem;
+}
+
+.beginners-highlight {
+	color: #FF5722;
+	font-weight: bold;
+}
+
+.instructor {
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+    max-width: 100%;
+    margin: auto;
+    display: block;
+}
+
+.class-details .nav.nav-tabs {
+	margin-bottom: 1rem;
+}
+
+.navbar-aj {
+    background-color: #FF5722;
+    border-color: #006EA0;
+}
+
+.navbar-aj a {
+	color: #fff;
+}
+
+.navbar-aj > li > a:hover {
+	color: #fff;
+    background-color: #0288D1;
+}
+
+ul.information-links a {
+	display: block;
+    padding: 0.5rem;
+}
